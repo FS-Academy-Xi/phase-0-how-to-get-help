@@ -41,12 +41,10 @@ error messages:
 ### Use the Resources Available to You
 
 Sometimes, common issues are noted in lesson materials. Other times, errors occur when an essential step is
-missed. For these reasons, we recommend reviewing the resources available to you through Flatiron School:
+missed. For these reasons, we recommend reviewing the resources available to you through Academy Xi:
 
 - Re-read the lesson you're on thoroughly to make sure you’re not missing relevant details
 - Review previous lessons that may apply to the error or issue you’re experiencing, retracing your steps
-- Check out [Flatiron School's help articles](https://help.learn.co) - these articles include
-  advice and answers to frequently asked questions from the Flatiron School Team.
   
 ### Use External Resources
   
@@ -80,7 +78,7 @@ to yours. Use the Slack channels available to you to get help:
 
 - You can post in any public channel (e.g., #general)
 - Shortly before you start with a cohort you will be given access to a cohort-specific Slack channel
-- While you're completing the prework, you can post questions in the #js-prework-support channel. There will be other students there who may be able to help, and this channel is also staffed by Flatiron School instructors from 9am to 9pm eastern time, Monday through Friday.
+- While you're completing the prework, you can post questions in the #js-prework-support channel. There will be other students there who may be able to help, and this channel is also staffed by Academy Xi instructors from 9am to 9pm eastern time, Monday through Friday.
 
 Equally, if you find someone else asking a question on Slack that you can 
 provide insight on, please do! One of the best ways to confirm your own 
@@ -88,9 +86,6 @@ understanding of a concept is to try and help someone else understand it.
 
 ## Attend Support Meetings
 
-Flatiron runs reoccurring meetings every week. Use these meetings to get help!
+Academy Xi runs reoccurring meetings every week. Use these meetings to get help!
 Also, keep an eye out in Slack for messages regarding additional meetings and
 study sessions.
-
-<iframe style="border: 0;" src="https://calendar.google.com/calendar/embed?src=c_mcnbnls2uhbisql1i8fo36um24%40group.calendar.google.com&amp;ctz=America%2FNew_York" width="800" height="600"></iframe>
-
